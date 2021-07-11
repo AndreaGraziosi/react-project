@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Title from "./Title";
 import MoodList from './MoodList';
+import Footer from './Footer';
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <div className="App">
       <Title />
       <MoodList />
+      <Footer className="footer"/>
       
     </div>
   );

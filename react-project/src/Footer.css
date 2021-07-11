@@ -1,0 +1,18 @@
+.Footer {
+    background-color: #d8dede;
+    background-color: #f6f0c4;
+    background-image: linear-gradient(100deg, #f6f0c4 0%, #d99ec9 74%);
+    color: #fff;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 5em;
+    margin-bottom: 0em;
+  }
+
+  .Footer {
+    width: 100%;
+    text-align: center;
+  }

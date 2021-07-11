@@ -1,0 +1,20 @@
+#name {
+    color: #584750;
+    font-family:monospace;
+}
+
+.MoodType {
+    width: 100%;
+    text-align: center;
+  }
+  
+.MoodType > img {
+    width: 100%;
+    height: auto;
+  }
+
+#feeling {
+    font-style:initial;
+    font-family: fantasy;
+    color:slategrey;
+}
