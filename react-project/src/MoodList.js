@@ -9,10 +9,11 @@ import data from "./mood-data.json"
 
 function MoodList() {
 
-  const Types = data.map(({name, feeling, images}) => {
+  const Types = data.map(({name, feeling, images},i) => {
    
     return (
       <MoodType
+        id={i}
         key={name}
         name={name}
         feeling={feeling}
