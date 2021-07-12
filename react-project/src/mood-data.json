@@ -1,0 +1,50 @@
+[ 
+    {
+       "name":"Happy",
+       "message":"Let your unique awesomeness and positive energy inspire confidence in others",
+       "feeling":"I feel great today!",
+       "images":[
+          "Happy.jpg"
+       ]
+    },
+    {
+        "name":"Upset",
+        "message":"Wherever you go, no matter what the weather, always bring your own sunshine.",
+        "feeling":"It can't be!",
+        "images":[
+           "upset.jpg"
+        ]
+     },
+     {
+        "name":"Perfect",
+        "message":"If you want light to come into your life, you need to stand where it is shining",
+        "feeling":"Yess!!!",
+        "images":[
+           "perfect.jpg"
+        ]
+     },
+     {
+        "name":"Sad",
+        "message":"Success is the sum of small efforts repeated day in and day out",
+        "feeling":"Nooooooo!!!",
+        "images":[
+           "sad.jpg"
+        ]
+     },
+     {
+        "name":"Tired",
+        "message":"'If you cannot do great things, do small things in a great way',",
+        "feeling":"Zzzzzzzzzz",
+        "images":[
+           "tired.jpg"
+        ]
+     },
+     {
+        "name":"Yay",
+        "message":"“No matter how many obstacles come in front of me, I will not give up, and I will keep pushing forward because I know these obstacles are there to test my worthiness.”",
+        "feeling":"Yess!!!",
+        "images":[
+           "yahoo.jpg"
+        ]
+     }
+  ]

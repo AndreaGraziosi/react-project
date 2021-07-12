@@ -4,8 +4,9 @@ import React from 'react'
 import logo from './logo.svg'
 import "./MoodType.css"
 
+
 function   MoodType(props) {
-  const { Name, image, Feeling } = props
+  const { name, image, feeling } = props
   return (
     <div className="MoodType">
       <img
@@ -14,8 +15,8 @@ function   MoodType(props) {
         height="300"
         alt="Hello"
       />
-      <h1 id="name">{Name}</h1>
-      <div id="feeling">{Feeling}</div>
+      <h1 id="name">{name}</h1>
+      <div id="feeling">{feeling}</div>
     </div>
   )
 }
